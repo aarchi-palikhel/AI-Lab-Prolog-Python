@@ -29,6 +29,12 @@ The implemented labs demonstrate:
 | `prolog_family_relationships.pl` | Extended relation inference (father, mother, grandparent, sibling, uncle, aunt). | Knowledge Representation |
 | `directed_graph_paths.pl` | Recursive path-finding rules in directed graphs. | Logical Inference on Graphs |
 | `water_jug_solver.pl` | DFS-based solver for the two-jug water jug problem. | State Space Search |
+| `medical_expert_system.pl` | Infers likely diseases from symptoms and provides basic advice using rules. | Expert Systems |
+| `ancestor.pl` | Practice problem file for ancestor and descendant inference with recursive rules. | Logic Programming |
+| `class_timetable.pl` | Practice problem file for timetable conflict detection and teacher availability queries. | Rule-Based Reasoning |
+| `best_route.pl` | Practice problem file for route existence and route-cost reasoning in road networks. | Search and Cost Reasoning |
+| `library_fine.pl` | Practice problem file for overdue detection and fine calculation by rules. | Knowledge-Based Systems |
+| `course_recommendation.pl` | Practice problem file for recommending courses from student interests. | Expert Systems |
 
 ## Academic Purpose
 
